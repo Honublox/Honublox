@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Honublox
-- 👀 I’m interested in coding, technology, gaming, sports, art, music, video editing, and much more
+- 👋 Hi, I’m Tehya!
+- 👀 I’m interested in coding, technology, gaming, sports, art, music, video editing, 3D modeling, and much more
 - 🌱 I’m currently learning Python
 - 🌱 I want to learn Java, JavaScript, C++, HTML, CSS, C#, C, Ruby
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: My fav music genre is rap
+- ⚡ Fun fact: My favorite music genre is rap
