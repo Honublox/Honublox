@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tehya!
 - 👀 I’m interested in coding, technology, gaming, sports, art, music, video editing, 3D modeling, and much more
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Maya, Blender, Kali Linux, and more
 - 🌱 I want to learn Java, JavaScript, C++, HTML, CSS, C#, C, Ruby
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: My favorite music genre is rap
+- ⚡ Fun fact: I have 3 pets
